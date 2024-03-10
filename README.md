@@ -12,6 +12,7 @@ This project showcases a modern responsive portfolio website designed for Cynthi
 - CSS
 - JavaScript
 - GSAP (GreenSock Animation Platform)
+- LOCOmotive scroll
 
 ## Features
 
@@ -19,8 +20,4 @@ This project showcases a modern responsive portfolio website designed for Cynthi
 - Simple and intuitive navigation for users to explore Cynthia Ugwu's portfolio.
 - Integration of GSAP library for smooth animations and transitions.
 - Minimalistic yet elegant design to emphasize the showcased work.
-
-## Usage
-
-1. Clone the repository:
 
